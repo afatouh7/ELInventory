@@ -1,0 +1,20 @@
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Core\bin\Release\netstandard2.1\Core.deps.json
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Core\bin\Release\netstandard2.1\Core.dll
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Core\bin\Release\netstandard2.1\Core.pdb
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Core\obj\Release\netstandard2.1\Core.csproj.AssemblyReference.cache
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Core\obj\Release\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Core\obj\Release\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Core\obj\Release\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Core\obj\Release\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Core\obj\Release\netstandard2.1\Core.dll
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Core\obj\Release\netstandard2.1\Core.pdb
+F:\ElPAy\New folder\e-com-master\Core\bin\Release\netstandard2.1\Core.deps.json
+F:\ElPAy\New folder\e-com-master\Core\bin\Release\netstandard2.1\Core.dll
+F:\ElPAy\New folder\e-com-master\Core\bin\Release\netstandard2.1\Core.pdb
+F:\ElPAy\New folder\e-com-master\Core\obj\Release\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ElPAy\New folder\e-com-master\Core\obj\Release\netstandard2.1\Core.AssemblyInfoInputs.cache
+F:\ElPAy\New folder\e-com-master\Core\obj\Release\netstandard2.1\Core.AssemblyInfo.cs
+F:\ElPAy\New folder\e-com-master\Core\obj\Release\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+F:\ElPAy\New folder\e-com-master\Core\obj\Release\netstandard2.1\Core.dll
+F:\ElPAy\New folder\e-com-master\Core\obj\Release\netstandard2.1\Core.pdb
+F:\ElPAy\New folder\e-com-master\Core\obj\Release\netstandard2.1\Core.csproj.AssemblyReference.cache

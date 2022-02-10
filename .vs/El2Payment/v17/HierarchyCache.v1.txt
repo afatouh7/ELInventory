@@ -1,0 +1,399 @@
+﻿++Solution 'El2Payment' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:El2Payment.sln
+++API
+i:{00000000-0000-0000-0000-000000000000}:API
+++Connected Services 
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1841
+++Dependencies
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1840
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:>1082
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:>1083
+++Properties
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\
+++wwwroot
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\
+++Controllers
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\
+++AccountController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\accountcontroller.cs
+++BaseApiController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\baseapicontroller.cs
+++BasketController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\basketcontroller.cs
+++CustomerNameController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\customernamecontroller.cs
+++DespatchController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\despatchcontroller.cs
+++ErrorController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\errorcontroller.cs
+++FinanceController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\financecontroller.cs
+++InventoryController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\inventorycontroller.cs
+++OrdersController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\orderscontroller.cs
+++ProductsController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\productscontroller.cs
+++WeatherForecastController.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\controllers\weatherforecastcontroller.cs
+++Dtos
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\
+++Errors
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\errors\
+++Extensions
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\extensions\
+++Helpers
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\helpers\
+++Middleware
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\middleware\
+++Photos
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\photos\
+++appsettings.json
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\appsettings.json
+++Program.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\program.cs
+++Startup.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\startup.cs
+++WeatherForecast.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\weatherforecast.cs
+++No service dependencies discovered
+++Analyzers
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:analyzers
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:analyzers
+++Frameworks
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:frameworks
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:frameworks
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:frameworks
+++Packages
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:packages
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:packages
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:packages
+++Projects
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:projects
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:projects
+++PublishProfiles
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\
+++launchSettings.json
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\launchsettings.json
+++images
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\
+++AddressDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\addressdto.cs
+++BasketItemDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\basketitemdto.cs
+++CustomerBasketDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\customerbasketdto.cs
+++DespatchDto.cs
+++FinaceDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\finacedto.cs
+++LoginDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\logindto.cs
+++OrderDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\orderdto.cs
+++OrderItemDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\orderitemdto.cs
+++OrderToReturnDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\ordertoreturndto.cs
+++ProductToReturnDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\producttoreturndto.cs
+++RegisterDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\registerdto.cs
+++UserDto.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\dtos\userdto.cs
+++ApiException.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\errors\apiexception.cs
+++ApiResponse.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\errors\apiresponse.cs
+++ApiValidationErrorResponse.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\errors\apivalidationerrorresponse.cs
+++ApplicationSevicesExtensions.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\extensions\applicationsevicesextensions.cs
+++ClaimsPrincipalExtensions.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\extensions\claimsprincipalextensions.cs
+++IdentityServiceExtensions.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\extensions\identityserviceextensions.cs
+++SwaggerServiceExtensions.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\extensions\swaggerserviceextensions.cs
+++UserManagerExtensions.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\extensions\usermanagerextensions.cs
+++MappingProfiles.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\helpers\mappingprofiles.cs
+++OrderItemUrlResolver.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\helpers\orderitemurlresolver.cs
+++Pagination.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\helpers\pagination.cs
+++ProductUrlResolver.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\helpers\producturlresolver.cs
+++ExceptionMiddleware.cs
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\middleware\exceptionmiddleware.cs
+++download (1).jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\photos\download (1).jpg
+++images (2).jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\photos\images (2).jpg
+++images.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\photos\images.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\images.jpg
+++appsettings.Development.json
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:c:\users\abz\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.21\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:c:\users\abz\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (7.0.0)
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1871
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.1)
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1875
+++Microsoft.EntityFrameworkCore.Design (3.1.3)
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1872
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.21)
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1870
+++Microsoft.EntityFrameworkCore.Tools (3.1.1)
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1876
+++Newtonsoft.Json (13.0.1)
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1873
+++StackExchange.Redis (2.2.88)
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1877
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:>1847
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:>1859
+++Swashbuckle.AspNetCore.SwaggerGen (5.4.1)
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1874
+++Swashbuckle.AspNetCore.SwaggerUI (5.4.1)
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1878
+++Infrastructure
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\infrastructure\infrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:Infrastructure
+++FolderProfile.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile.pubxml
+++FolderProfile1.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile1.pubxml
+++FolderProfile2.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile2.pubxml
+++FolderProfile3.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile3.pubxml
+++FolderProfile4.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile4.pubxml
+++FolderProfile5.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile5.pubxml
+++FolderProfile6.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile6.pubxml
+++FolderProfile7.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile7.pubxml
+++FolderProfile8.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile8.pubxml
+++IISProfile.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\iisprofile.pubxml
+++IISProfile1.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\iisprofile1.pubxml
+++download (2).jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\download (2).jpg
+++Photosimages.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\photosimages.jpg
+++PhotosIMG-20190412-WA0014.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\photosimg-20190412-wa0014.jpg
+++PhotosIMG-20190423-WA0008.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\photosimg-20190423-wa0008.jpg
+++PhotosIMG-20190429-WA0000.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\photosimg-20190429-wa0000.jpg
+++PhotosIMG-20190429-WA0003.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\photosimg-20190429-wa0003.jpg
+++PhotosIMG-20190722-WA0001.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\photosimg-20190722-wa0001.jpg
+++PhotosIMG-20190908-WA0003.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\photosimg-20190908-wa0003.jpg
+++PhotosIMG-20191028-WA0002.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\photosimg-20191028-wa0002.jpg
+++PhotosIMG-20191202-WA0000.jpg
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\wwwroot\images\photosimg-20191202-wa0000.jpg
+++Core
+i:{00000000-0000-0000-0000-000000000000}:Core
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\core\core.csproj
+++Entities
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\
+++Interfaces
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\interfaces\
+++Specifications
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\specifications\
+++Identity
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\identity\
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\identity\
+++Inventory
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\inventory\
+++OrderAggregate
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\orderaggregate\
+++BaseEntity.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\baseentity.cs
+++BasketItem.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\basketitem.cs
+++CustomerBasket.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\customerbasket.cs
+++CustomerName.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\customername.cs
+++Despatch.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\despatch.cs
+++finaceStorge.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\finacestorge.cs
+++Inventory.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\inventory.cs
+++inventoryTransaction.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\inventorytransaction.cs
+++InventoryView.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\inventoryview.cs
+++Product.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\product.cs
+++ProductBrand.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\productbrand.cs
+++ProductType.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\producttype.cs
+++IBasketRepository.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\interfaces\ibasketrepository.cs
+++IGenericRepository.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\interfaces\igenericrepository.cs
+++IOrderService.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\interfaces\iorderservice.cs
+++IProductRepository.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\interfaces\iproductrepository.cs
+++ITokenService.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\interfaces\itokenservice.cs
+++IUnitOfWork.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\interfaces\iunitofwork.cs
+++BaseSpecification.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\specifications\basespecification.cs
+++ISpecification.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\specifications\ispecification.cs
+++OrdersWithItemsAndOrderingSpecification.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\specifications\orderswithitemsandorderingspecification.cs
+++ProductSpecParams.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\specifications\productspecparams.cs
+++ProductsWithTypesAndBrandsSpecification.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\specifications\productswithtypesandbrandsspecification.cs
+++ProductWithFiltersForCountSpecification.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\specifications\productwithfiltersforcountspecification.cs
+++NETStandard.Library
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\netstandard.library
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\netstandard.library
+++Microsoft.AspNetCore.Http.Features (5.0.13)
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:>1846
+++Microsoft.Extensions.Identity.Stores (3.1.3)
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:>1848
+++Address.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\identity\address.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\orderaggregate\address.cs
+++AppUser.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\identity\appuser.cs
+++DeliveryMethod.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\orderaggregate\deliverymethod.cs
+++Order.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\orderaggregate\order.cs
+++OrderItem.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\orderaggregate\orderitem.cs
+++OrderStatus.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\orderaggregate\orderstatus.cs
+++ProductItemOrdered.cs
+i:{610a80b2-538f-4389-ae8d-5314e1727533}:f:\elpay\new folder\e-com-master\core\entities\orderaggregate\productitemordered.cs
+++Data
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\
+++Config
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\config\
+++DeliveryMethodConfiguration.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\config\deliverymethodconfiguration.cs
+++OrderConfiguration.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\config\orderconfiguration.cs
+++OrderItemConfiguration.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\config\orderitemconfiguration.cs
+++ProductConfiguration.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\config\productconfiguration.cs
+++Migrations
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\migrations\
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\migrations\
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\identity\migrations\
+++BasketRepository.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\basketrepository.cs
+++GenericRepository.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\genericrepository.cs
+++ProductRepository.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\productrepository.cs
+++SpecificationEvaluator.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\specificationevaluator.cs
+++StoreContext.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\storecontext.cs
+++StoreContextSeed.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\storecontextseed.cs
+++UnitOfWork.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\data\unitofwork.cs
+++Services
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\services\
+++AppIdentityDbContext.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\identity\appidentitydbcontext.cs
+++AppIdentityDbContextSeed.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\identity\appidentitydbcontextseed.cs
+++AppIdentityDb
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\migrations\appidentitydb\
+++20220202122817_inits.cs
+++StoreContextModelSnapshot.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\migrations\storecontextmodelsnapshot.cs
+++OrderService.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\services\orderservice.cs
+++TokenService.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\services\tokenservice.cs
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:>1855
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.3)
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:>1857
+++Microsoft.EntityFrameworkCore (3.1.3)
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:>1852
+++Microsoft.EntityFrameworkCore.Sqlite (3.1.3)
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:>1856
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.1)
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:>1853
+++Microsoft.IdentityModel.Tokens (6.6.0)
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:>1858
+++System.IdentityModel.Tokens.Jwt (6.6.0)
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:>1854
+++20220108204532_users.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\migrations\appidentitydb\20220108204532_users.cs
+++AppIdentityDbContextModelSnapshot.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\migrations\appidentitydb\appidentitydbcontextmodelsnapshot.cs
+++20220202122817_inits.Designer.cs
+++20220108204532_users.Designer.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\migrations\appidentitydb\20220108204532_users.designer.cs
+++Microsoft identity platform
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1889
+++Microsoft identity platform dependency is detected
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1890
+++SQL Server Database
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1887
+++SQL Server Database dependency is detected
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:>1888
+++FolderProfile9.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile9.pubxml
+++FolderProfile10.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile10.pubxml
+++FolderProfile11.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile11.pubxml
+++FolderProfile12.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile12.pubxml
+++FolderProfile13.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile13.pubxml
+++20220206141547_despatch.cs
+++20220206141547_despatch.Designer.cs
+++20220207052716_pic.cs
+++20220207052716_pic.Designer.cs
+++20220207053301_pics.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\migrations\20220207053301_pics.cs
+++20220207053301_pics.Designer.cs
+i:{c6c8ff95-dc7a-4bf8-bb46-7b9b2d2bafa0}:f:\elpay\new folder\e-com-master\infrastructure\migrations\20220207053301_pics.designer.cs
+++FolderProfile14.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile14.pubxml
+++FolderProfile15.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile15.pubxml
+++FolderProfile16.pubxml
+i:{910660c4-3ea9-401e-9836-f70474de6a2e}:f:\elpay\new folder\e-com-master\api\properties\publishprofiles\folderprofile16.pubxml

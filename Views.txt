@@ -1,0 +1,11 @@
+ create View InventoryView as
+ select p.Name,
+        p.Supplier,
+		sum(i.Quantity) Quantity
+ from Products p
+ inner join OrderItems i
+ on p.id=i.ItemOrdered_ProductItemId
+  inner join Orders o
+ on i.OrderId=o.Id
+ where o.Status='PendingRecive'
+ group by p.Name,p.Supplier 

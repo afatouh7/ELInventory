@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\ElPAy\New folder\e-com-master\API\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-02-05T14:00:25.5221930Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=DESKTOP-7P34FTF%3bDatabase=El2Payment%3b Trusted_Connection=true%3b MultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="IdentityConnection">
+      <Value>Server=DESKTOP-7P34FTF%3bDatabase=El2Payment%3b Trusted_Connection=true%3b MultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="Redis">
+      <Value>Server=DESKTOP-7P34FTF%3bDatabase=El2Payment%3b Trusted_Connection=true%3b MultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Infrastructure.Data.StoreContext">
+      <Value>Server=DESKTOP-7P34FTF%3bDatabase=El2Payment%3b Trusted_Connection=true%3b MultipleActiveResultSets=true</Value>
+    </EFMigrations>
+    <EFMigrations Include="Infrastructure.Identity.AppIdentityDbContext">
+      <Value>Server=DESKTOP-7P34FTF%3bDatabase=El2Payment%3b Trusted_Connection=true%3b MultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

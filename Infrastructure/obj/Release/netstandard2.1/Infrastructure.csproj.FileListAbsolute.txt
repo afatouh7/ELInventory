@@ -1,0 +1,26 @@
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\bin\Release\netstandard2.1\Infrastructure.deps.json
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\bin\Release\netstandard2.1\Infrastructure.dll
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\bin\Release\netstandard2.1\Infrastructure.pdb
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\bin\Release\netstandard2.1\Core.dll
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\bin\Release\netstandard2.1\Core.pdb
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.CopyComplete
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.dll
+C:\Users\abz\Desktop\EL2Payments\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.pdb
+F:\ElPAy\New folder\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.AssemblyReference.cache
+F:\ElPAy\New folder\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ElPAy\New folder\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+F:\ElPAy\New folder\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.AssemblyInfo.cs
+F:\ElPAy\New folder\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+F:\ElPAy\New folder\e-com-master\Infrastructure\bin\Release\netstandard2.1\Infrastructure.deps.json
+F:\ElPAy\New folder\e-com-master\Infrastructure\bin\Release\netstandard2.1\Infrastructure.dll
+F:\ElPAy\New folder\e-com-master\Infrastructure\bin\Release\netstandard2.1\Infrastructure.pdb
+F:\ElPAy\New folder\e-com-master\Infrastructure\bin\Release\netstandard2.1\Core.dll
+F:\ElPAy\New folder\e-com-master\Infrastructure\bin\Release\netstandard2.1\Core.pdb
+F:\ElPAy\New folder\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.CopyComplete
+F:\ElPAy\New folder\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.dll
+F:\ElPAy\New folder\e-com-master\Infrastructure\obj\Release\netstandard2.1\Infrastructure.pdb

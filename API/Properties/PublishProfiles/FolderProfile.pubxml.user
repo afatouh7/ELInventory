@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\ElPAy\New folder\e-com-master\API\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-02-05T02:08:18.8282988Z;True|2022-02-05T03:14:06.6953283+02:00;True|2022-02-03T17:58:35.6191607+02:00;True|2022-02-03T15:39:08.1689471+02:00;True|2022-01-20T13:18:56.1658340+02:00;True|2022-01-20T10:35:48.2318112+02:00;True|2022-01-20T10:34:34.6866840+02:00;</History>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <Compile Remove="Data\Migrations\20200625152846_InitialMigration.cs" />
+    <Compile Remove="Data\Migrations\20200625152846_InitialMigration.Designer.cs" />
+    <Compile Remove="Identity\Migrations\20200623161016_InitialMigration.cs" />
+    <Compile Remove="Identity\Migrations\20200623161016_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20220119015101_lastUpdate.cs" />
+    <Compile Remove="Migrations\20220119015101_lastUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20220126142501_Despatch.cs" />
+    <Compile Remove="Migrations\20220126142501_Despatch.Designer.cs" />
+    <Compile Remove="Migrations\20220129194931_updateProduct.cs" />
+    <Compile Remove="Migrations\20220129194931_updateProduct.Designer.cs" />
+    <Compile Remove="Migrations\20220129201352_updateProductss.cs" />
+    <Compile Remove="Migrations\20220129201352_updateProductss.Designer.cs" />
+    <Compile Remove="Migrations\20220130120206_upd.cs" />
+    <Compile Remove="Migrations\20220130120206_upd.Designer.cs" />
+    <Compile Remove="Migrations\20220131014126_inventory.cs" />
+    <Compile Remove="Migrations\20220131014126_inventory.Designer.cs" />
+    <Compile Remove="Migrations\20220131094500_updInv.cs" />
+    <Compile Remove="Migrations\20220131094500_updInv.Designer.cs" />
+    <Compile Remove="Migrations\20220131104111_updInvs.cs" />
+    <Compile Remove="Migrations\20220131104111_updInvs.Designer.cs" />
+    <Compile Remove="Migrations\20220201030758_updDespatch.cs" />
+    <Compile Remove="Migrations\20220201030758_updDespatch.Designer.cs" />
+    <Compile Remove="Migrations\20220201090949_upateProduct.cs" />
+    <Compile Remove="Migrations\20220201090949_upateProduct.Designer.cs" />
+    <Compile Remove="Migrations\20220201094429_upateProducts.cs" />
+    <Compile Remove="Migrations\20220201094429_upateProducts.Designer.cs" />
+    <Compile Remove="Migrations\20220201095750_upateProductss.cs" />
+    <Compile Remove="Migrations\20220201095750_upateProductss.Designer.cs" />
+    <Compile Remove="Migrations\20220202094919_initi.cs" />
+    <Compile Remove="Migrations\20220202094919_initi.Designer.cs" />
+    <Compile Remove="Migrations\20220202111110_all.cs" />
+    <Compile Remove="Migrations\20220202111110_all.Designer.cs" />
+    <Compile Remove="Migrations\20220202120008_adds.cs" />
+    <Compile Remove="Migrations\20220202120008_adds.Designer.cs" />
+    <Compile Remove="Migrations\20220202121253_addsordersItems.cs" />
+    <Compile Remove="Migrations\20220202121253_addsordersItems.Designer.cs" />
+    <Compile Remove="Migrations\20220202121946_init.cs" />
+    <Compile Remove="Migrations\20220202121946_init.Designer.cs" />
+    <Compile Remove="Migrations\20220202122817_inits.cs" />
+    <Compile Remove="Migrations\20220202122817_inits.Designer.cs" />
+    <Compile Remove="Migrations\20220206141547_despatch.cs" />
+    <Compile Remove="Migrations\20220206141547_despatch.Designer.cs" />
+    <Compile Remove="Migrations\20220207052716_pic.cs" />
+    <Compile Remove="Migrations\20220207052716_pic.Designer.cs" />
+    <Compile Remove="Migrations\20220207053301_pics.cs" />
+    <Compile Remove="Migrations\20220207053301_pics.Designer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.1" />
+    <PackageReference Include="StackExchange.Redis" Version="2.2.88" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.6.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.6.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\Migrations\" />
+    <Folder Include="Identity\Migrations\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\ElPAy\New folder\e-com-master\API\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>False|2022-02-05T12:43:42.5664862Z;False|2022-02-05T14:43:09.4982653+02:00;True|2022-02-05T13:07:20.0916405+02:00;True|2022-02-05T13:06:54.7335124+02:00;True|2022-02-05T12:32:50.7007970+02:00;True|2022-02-05T05:32:07.6518243+02:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=DESKTOP-7P34FTF%3bDatabase=El2Payment%3b Trusted_Connection=true%3b MultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="IdentityConnection">
+      <Value>Server=DESKTOP-7P34FTF%3bDatabase=El2Payment%3b Trusted_Connection=true%3b MultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="Redis">
+      <Value>Server=DESKTOP-7P34FTF%3bDatabase=El2Payment%3b Trusted_Connection=true%3b MultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
